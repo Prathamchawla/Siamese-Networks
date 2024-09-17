@@ -1,5 +1,4 @@
 torch
 opencv-python
-torchvision
-pickle 
+torchvision 
 pillow
